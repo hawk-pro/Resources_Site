@@ -1,0 +1,31 @@
+body{
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-size: cover ;
+    background-image: url("blackjack_bkg.png");
+
+}
+h1{
+    padding-top: 100px;
+color: goldenrod;
+}
+
+#message-el{
+    font-style: italic;
+}
+button{
+    color:#016f32;
+    width:150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 4px;
+    margin-top: 4px;
+
+}
